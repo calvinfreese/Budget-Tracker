@@ -1,4 +1,4 @@
-# Budget-Tracker# Eat-Da-Burger
+# Budget-Tracker
 
 #### Table of Contents
   * [Description](#Description)
@@ -24,15 +24,13 @@ Click [Here](https://radiant-chamber-05596.herokuapp.com/) to view the Heroku de
 #### Steps
 1. * Start by entering the following in your terminal: `Git clone https://github.com/whackingMUFN/Budget-Tracker.git`
 
-2. * Change directory to `Workout-Tracker` and enter `npm install` into your terminal. This will install all package dependencies.
+2. * Change directory to `Budget-Tracker` and enter `npm install` into your terminal. This will install all package dependencies.
 
 3. * Add node_modules to .gitignore.
 
-4. * Enter `npm run seed` in terminal.
+4. * Start the application by running `npm start`
 
-5. * Start the application by running `npm start`
-
-6. * Application can be installed to the desktop by clicking "install" in the settings of the browser.
+5. * Application can be installed to the desktop by clicking "install" in the settings of the browser.
     * Microsoft Edge
         * ![Edge](./public/readmeimages/edge-install.png)
     * Google Chrome
